@@ -2,7 +2,6 @@
 import csv
 from pathlib import Path
 
-
 def export_to_csv(
     data,
     filename="trading_results.csv",

@@ -45,7 +45,6 @@ class AlpacaService:
             secret_key=secret_key,
             paper=paper
         )
-
     # -----------------------------------------
     # INTERNAL HELPERS
     # -----------------------------------------

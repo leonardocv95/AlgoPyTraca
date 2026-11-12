@@ -170,7 +170,8 @@ class TradingDataManager:
             """, (captured_at, self._json(account)))
 
             snapshot_id = cursor.lastrowid
-
+            
+            
             for position in positions:
 
                 conn.execute("""
