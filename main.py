@@ -9,7 +9,6 @@ from services.market_data_service import MarketDataService
 
 from algorithm import make_decision
 
-
 # ==================================================
 # CONFIGURATION
 # ==================================================
